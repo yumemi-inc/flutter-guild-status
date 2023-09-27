@@ -6,14 +6,11 @@ https://github.com/yumemi-inc/flutter-engineer-codecheck
 
 求人は次の通りで、インターンの求人はありません。
 
-- [2024卒新卒]
 - [2025卒新卒]
 - [2026卒新卒]
 - [リードエンジニア]
 
 <!-- Links -->
-
-[2024卒新卒]: https://hrmos.co/pages/yumemi/jobs/0000550
 
 [2025卒新卒]: https://hrmos.co/pages/yumemi/jobs/0000560
 
