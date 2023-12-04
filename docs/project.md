@@ -8,6 +8,7 @@
 
 - [株式会社ジョリーグッド 様]
 - [株式会社マクアケ 様]
+- [コミューン株式会社 様]
 
 また、次のような委員会活動をギルドメンバーで分担しています。
 
@@ -26,3 +27,5 @@
 [株式会社ジョリーグッド 様]: https://yumemi.co.jp/flutter_project220106
 
 [株式会社マクアケ 様]: https://yumemi.co.jp/makuake_app
+
+[コミューン株式会社 様]: https://www.yumemi.co.jp/commmune_app_flutter
