@@ -8,7 +8,7 @@ https://github.com/yumemi-inc/flutter-engineer-codecheck
 
 - [2026卒新卒]
 - [2027卒新卒]
-- [リードエンジニア]
+- [リードエンジニア（プロジェクトリード）]
 
 <!-- Links -->
 
@@ -16,4 +16,4 @@ https://github.com/yumemi-inc/flutter-engineer-codecheck
 
 [2027卒新卒]: https://hrmos.co/pages/yumemi/jobs/101000002700
 
-[リードエンジニア]: https://hrmos.co/pages/yumemi/jobs/201050300000
+[リードエンジニア（プロジェクトリード）]: https://hrmos.co/pages/yumemi/jobs/201050300000
